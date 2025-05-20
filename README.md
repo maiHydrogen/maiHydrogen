@@ -53,10 +53,10 @@
 
 ---
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maiHydrogen&show_icons=true&theme=swift" alt="maiHydrogen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=swift" alt="Top Languages"/>
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=swift" alt="Top Languages"/>
+</p>
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiHydrogen&theme=radical" alt="GitHub Streak" />
 </p> -->
