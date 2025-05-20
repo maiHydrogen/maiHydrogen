@@ -54,7 +54,7 @@
 ---
 
 <p align="center">
-  <table align="center"> <tr>
+  <table align="center" border="0" cellpadding="0" cellspacing="0"> <tr>
       <td style="padding: 0 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=maiHydrogen&show_icons=true&theme=swift" alt="maiHydrogen's GitHub Stats" />
       </td>
       <td style="padding: 0 10px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=swift" alt="Top Languages"/>
