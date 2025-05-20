@@ -14,7 +14,7 @@
 - 🛠️ Participated in:
   - Hacktoberfest'24
   - FOSSHACK'25
-  - Major League Hacking Global Hack Week
+  - Major League Hacking Global Hack Week (May 2025)
   - Attempted GSoC'25
 
 ---
@@ -45,9 +45,9 @@
 
 ---
 
-### ⚡ Fun Facts
+### ⚡ Interested In
 
-- 🏎️ **Formula 1** | 🏏 **Cricket** | ⚽ **Football**
+- 🏎️ **Formula 1** | 🏏 **Cricket** 
 - 🎮 PC & Mobile Gaming
 - 🦸‍♂️ Marvel Cinematic Universe Fan
 
@@ -56,11 +56,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maiHydrogen&show_icons=true&theme=radical" alt="maiHydrogen's GitHub Stats" />
 </p>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiHydrogen&theme=radical" alt="GitHub Streak" />
-</p>
-
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
