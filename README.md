@@ -54,8 +54,16 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maiHydrogen&show_icons=true&theme=swift" alt="maiHydrogen's GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=swift" alt="Top Languages"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=maiHydrogen&show_icons=true&theme=swift" alt="maiHydrogen's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=swift" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiHydrogen&theme=radical" alt="GitHub Streak" />
