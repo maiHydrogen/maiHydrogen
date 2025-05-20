@@ -54,13 +54,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maiHydrogen&show_icons=true&theme=swift" alt="maiHydrogen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maiHydrogen&show_icons=true&theme=dracula" alt="maiHydrogen's GitHub Stats" />
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiHydrogen&theme=radical" alt="GitHub Streak" />
 </p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=swift" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
 ---
