@@ -49,7 +49,9 @@
 
 - 🏎️ **Formula 1** | 🏏 **Cricket** 
 - 🎮 PC & Mobile Gaming
-- 🦸‍♂️ Marvel Cinematic Universe Fan
+- 🦸‍♂️ Marvel Cinematic Universe
+- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="20" alt="Pikachu" /> **Pokémon**
+
 
 ---
 
