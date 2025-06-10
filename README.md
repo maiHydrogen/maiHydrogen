@@ -22,25 +22,31 @@
 ### 💼 Skills & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
-</p>
-
+  <p align="left"> 
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/android_studio/images/ff189138-7a77-4565-85fe-ecf6b6cc9d73.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-ar21~bgwhite.svg" alt="android" width="80" height="40"/> </a>
+    <a href="https://www.mongodb.com/cloud/atlas/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="git" width="80" height="40"/> </a> 
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" alt="git" width="80" height="40"/> </a> 
+  </p>
+  
 ---
 
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/himanshu-rajput-02980429a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/maihydrogen"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/maiHydrogen"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/himanshu-rajput-02980429a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatesh-m610" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/maihydrogen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_venkym_" height="30" width="40" /></a>
+ <a href="https://discord.com/users/maiHydrogen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_venkym_" height="30" width="40" /></a>
 </p>
 
 ---
@@ -50,27 +56,28 @@
 - 🏎️ **Formula 1** | 🏏 **Cricket** 
 - 🎮 PC & Mobile Gaming
 - 🦸‍♂️ Marvel Cinematic Universe
-- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="20" alt="Pikachu" /> **Pokémon**
+- <img src="https://github.com/user-attachments/assets/daceae34-cb71-4f76-a68f-6578a61ecff4" width="20" /> **Pokémon**
 
 
 ---
 
-<p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0"> <tr>
-      <td style="padding: 0 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=maiHydrogen&show_icons=true&theme=swift" alt="maiHydrogen's GitHub Stats" />
+<p>
+  <table align="left" border="0" cellpadding="0" cellspacing="0"> <tr>
+      <td> <img src="https://github-readme-stats.vercel.app/api?username=maiHydrogen&show_icons=true&theme=swift" alt="maiHydrogen's GitHub Stats" />
       </td>
-      <td style="padding: 0 10px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=swift" alt="Top Languages"/>
+      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiHydrogen&" alt="maiHydrogen" /> 
       </td>
     </tr>
   </table>
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiHydrogen&theme=radical" alt="GitHub Streak" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiHydrogen&layout=compact&theme=swift" alt="Top Languages"/></p>
+
+  
 ---
 
 <div align="center">
-  🚀 <b>Let’s connect, collaborate, and build something awesome!</b> 🚀
+  <b>Let’s connect, collaborate, and build something awesome! 🚀 </b>
 </div>
 
 <!--
