@@ -45,8 +45,8 @@
 
 <p>
  <a href="https://www.linkedin.com/in/himanshu-rajput-02980429a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatesh-m610" height="30" width="40" /></a>
- <a href="https://www.instagram.com/maihydrogen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_venkym_" height="30" width="40" /></a>
- <a href="https://discord.com/users/maiHydrogen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_venkym_" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/maihydrogen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
+ <a href="https://discord.com/users/854750602206248980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
 
 ---
